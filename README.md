@@ -1,2 +1,2 @@
-# scripts
-Scripts pessoais
+# Scripts
+Meus Scripts
