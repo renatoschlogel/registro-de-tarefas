@@ -12,7 +12,7 @@ function registrarTarefaEmExecucao(){
 
         function success (){
             console.log("Tarefa registrada com sucesso!");
-            process.exit()
+            process.exit();
         }
     });  
 
