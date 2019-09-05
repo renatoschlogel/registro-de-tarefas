@@ -1,0 +1,11 @@
+{
+  "name": "utilitarios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/renatoschlogel/utilitarios.git",
+  "author": "Renato Welinton Schlogel <rschlogel@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
