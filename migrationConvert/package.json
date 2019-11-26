@@ -1,0 +1,8 @@
+{
+  "name": "migrationConvert",
+  "version": "1.0.0",
+  "description": "Converte uma script de migrations Oracle para Postgre",
+  "main": "index.js",
+  "author": "Renato W Schlogel",
+  "license": "MIT"
+}
