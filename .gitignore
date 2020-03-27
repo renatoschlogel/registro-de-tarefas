@@ -62,6 +62,3 @@ typings/
 
 # Arquivo Gerado pela horas.js
 registroHoras.txt
-
-# Dependencias
-package-lock.json
