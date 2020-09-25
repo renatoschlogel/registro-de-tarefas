@@ -37,5 +37,5 @@ function getDataTimeFormatada(){
     let moment = require('moment');
     let data = new Date();
     
-    return moment(data).format('DD/MM/YYYY hh:mm:ss');
+    return moment(data).format('DD/MM/YYYY HH:MM:SS');
 }
