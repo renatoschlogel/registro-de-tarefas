@@ -12,7 +12,10 @@ function registrarTarefaEmExecucao(){
 
         function success (){
             console.log("Tarefa registrada com sucesso!");
-            process.exit();
+			setTimeout(function(){ 
+			    process.exit(); 
+			}, 500);
+    
         }
     });  
 
@@ -37,5 +40,5 @@ function getDataTimeFormatada(){
     let moment = require('moment');
     let data = new Date();
     
-    return moment(data).format('DD/MM/YYYY HH:MM:SS');
+    return moment(data).format('DD/MM/YYYY HH:mm:ss');;
 }
